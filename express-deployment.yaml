@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: express-order-service
-        image: thangaakilan/express-order-service:b19b531c
+        image: thangaakilan/express-order-service:87105988
         ports:
           - containerPort: 3000
         resources:
